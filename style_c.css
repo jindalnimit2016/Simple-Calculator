@@ -1,0 +1,53 @@
+h1{
+	text-align: center;
+	padding: 3px;
+	background-color: blanchedalmond;
+	color: darkgreen;
+}
+
+.formstyle{
+	width: 400px;
+	margin: auto;
+	border: 4px solid firebrick;
+	border-radius: 5px;
+	padding: 20px;
+	background-color: lightgoldenrodyellow;
+	height: 560px;
+
+}
+
+input {
+	width: 80px;
+	background-color: darkolivegreen;
+	color: black;
+	border: 5px solid lightblue;
+	border-radius: 5px;
+	padding: 16px;
+	margin: 6px;
+	font-size: 25px;
+
+}
+
+#calc{
+	width: 330px;
+	border: 3px solid black;
+	border-radius: 5px;
+	padding: 20px;
+	margin: auto ;
+	background-color: white;
+}
+
+#clear {
+	width: 180px;
+	background-color: darkgrey;
+	font-weight: 700;
+	font-size: 40px;
+	text-align: center;
+}
+
+#del{
+	width: 180px;
+	background-color: red;
+	font-weight: 700;
+	font-size: 28px;
+}
